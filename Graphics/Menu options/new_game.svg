@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="345"
+   height="80"
+   viewBox="0 0 91.281253 21.166667"
+   version="1.1"
+   id="svg2952"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="new_game.svg"
+   inkscape:export-filename="C:\Users\olaf3\Documents\GitHub\SmashIT\SmashIT-Game\Graphics\Menu options\new_game.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2946">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1765"
+       x="-0.00030068916"
+       width="1.0006014"
+       y="-0.0011890988"
+       height="1.0023782">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0092377144"
+         id="feGaussianBlur1767" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1848"
+       id="linearGradient1021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-5.9939118,-22.14112)"
+       x1="80.203644"
+       y1="41.311844"
+       x2="80.203644"
+       y2="24.255621" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1848">
+      <stop
+         style="stop-color:#225500;stop-opacity:1;"
+         offset="0"
+         id="stop1844" />
+      <stop
+         style="stop-color:#22c200;stop-opacity:1"
+         offset="1"
+         id="stop1846" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3543"
+       x="-0.012506943"
+       width="1.0250139"
+       y="-0.06130802"
+       height="1.122616">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.45661624"
+         id="feGaussianBlur3545" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="60.757256"
+     inkscape:cy="198.49999"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1017"
+       style="opacity:1;fill:#133200;fill-opacity:1;stroke-width:1.24479;stroke-linecap:square;filter:url(#filter1765)"
+       d="M 6.8838287,35.675698 H 98.098062 V 56.856795 H 6.8838287 Z"
+       sodipodi:nodetypes="ccccc"
+       transform="matrix(1.0001342,0,0,0.99694416,-6.8573661,-35.541531)" />
+    <path
+       id="path3539"
+       style="mix-blend-mode:normal;fill:#235b00;fill-opacity:1;stroke-width:1.134;stroke-linecap:square;filter:url(#filter3543)"
+       d="M 1.9951616,1.6458487 H 89.286078 c 0.0916,0 0.16537,0.07375 0.16537,0.165364 V 19.355454 c 0,0.09161 -0.0738,0.165364 -0.16537,0.165364 H 1.9951616 c -0.0916,0 -0.16536,-0.07375 -0.16536,-0.165364 V 1.8112127 c 0,-0.09161 0.0738,-0.165364 0.16536,-0.165364 z"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="path1019"
+       style="mix-blend-mode:normal;fill:url(#linearGradient1021);fill-opacity:1;stroke-width:1.134;stroke-linecap:square"
+       d="M 2.2123182,1.9765777 H 89.068922 c 0.0916,0 0.16537,0.07375 0.16537,0.165364 V 19.024725 c 0,0.09161 -0.0738,0.165364 -0.16537,0.165364 H 2.2123182 c -0.0916,0 -0.16536,-0.07375 -0.16536,-0.165364 V 2.1419417 c 0,-0.09161 0.0738,-0.165364 0.16536,-0.165364 z"
+       sodipodi:nodetypes="sssssssss" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';stroke:#105503;stroke-width:1.965;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="19.896338"
+       y="14.771516"
+       id="text3845"><tspan
+         sodipodi:role="line"
+         id="tspan3843"
+         x="19.896338"
+         y="14.771516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Riffic;-inkscape-font-specification:Riffic;fill:#ffffff;fill-opacity:1;stroke:#105503;stroke-width:1.965;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Nowa Gra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';stroke:none;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="19.896338"
+       y="14.771516"
+       id="text958"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         x="19.896338"
+         y="14.771516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Riffic;-inkscape-font-specification:Riffic;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">Nowa Gra</tspan></text>
+  </g>
+</svg>
