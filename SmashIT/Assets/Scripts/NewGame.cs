@@ -13,6 +13,8 @@ public class NewGame : MonoBehaviour
     public Slider progressSlider;
     public Slider volumeSlider;
     public TMPro.TMP_Dropdown resolutionDropdown;
+    public AudioSource clickSound;
+
 
     private int[,] resolutions = {
         {1920, 1080},
@@ -71,5 +73,10 @@ public class NewGame : MonoBehaviour
     {
         int dropdownOption = resolutionDropdown.value;
         Screen.SetResolution(resolutions[dropdownOption, 0], resolutions[dropdownOption, 1], false);
+    }
+
+    public void PlaySelectSound()
+    {
+        clickSound.Play();
     }
 }
