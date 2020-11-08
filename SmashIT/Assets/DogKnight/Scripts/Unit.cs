@@ -41,7 +41,7 @@ public class Unit : MonoBehaviour
             }
         }
 
-        //move += gravity;
+        move += gravity;
         control.Move(move * Time.deltaTime);
     }
 }
