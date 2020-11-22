@@ -43,7 +43,7 @@ public class Unit : MonoBehaviour
         move = move * moveSpeed;
 
         if(!control.isGrounded){
-            gravity = Physics.gravity * Time.deltaTime;
+            gravity += Physics.gravity * Time.deltaTime;
         }
         else{
             gravity = Vector3.zero;
